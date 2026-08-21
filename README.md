@@ -37,7 +37,7 @@
 🌐 Onde me encontrar
 
 <div align="center">
-<a href="https://github.com/Flavio-Mathias" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Flavio-Mathias-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Flavio-Mathias" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Flavio Mathias-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/fl%C3%A1vio-mathias-915b61328" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Fl%C3%A1vio%20Mathias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/dan.tasdev" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-%40dan.tasdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
