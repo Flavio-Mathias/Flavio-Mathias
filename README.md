@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Flávio Mathias</h1>
-  <p>Desenvolvedor Java | APIs REST | Estudante de Engenharia de Software</p>
+  <p>Desenvolvedor Python | APIs REST | Estudante de Engenharia de Software</p>
 </div>
 
 ---
@@ -10,17 +10,18 @@
 👤 Sobre Mim
 <div align="center">
   <p>Sempre fui fascinado por games e pela engenharia por trás das tecnologias que resolvem problemas reais do cotidiano, essa paixão me levou a construir uma base sólida desde cedo, sou formado como <strong>Técnico em Eletromecânica</strong>, onde desenvolvi forte raciocínio lógico e visão de sistemas, hoje sou estudante de <strong>Engenharia de Software</strong>, onde busco aprimorar minhas habilidades e aprender mais sobre esse mundo facinante da tecnologia.</p>
-  <p>Atualmente, foco meus estudos em <strong>C</strong>, além de <strong>prototipagem</strong> e <strong>interfaces UX/UI</strong>, Buscando sempre unir o design centrado no usuário com o desenvolvimento de soluções inteligentes e práticas, tendo tirado do papel projetos como: </p>
+  <p>Atualmente, foco meus estudos em <strong>C/C#</strong>, além de <strong>Desenvolvimento Front-End</strong> e <strong>Banco de Dados</strong>, Buscando sempre unir meus conhecimentos e realizar desenvolvimento de aplicativos/sites de maneira inteligente e prática. Ja tenho experiência com alguns projetos como: </p>
   <p><strong>Unipetit:</strong> Um Guia Digital da Universidade com foco em informar e ajudar os alunos, visitantes e professores a encontrar seus lanches e as localizações das lanchonetes facilmente.</p>
+  <p>Além disso ando trabalhando arduamente em um projeto pessoal que será uma <strong>IA</strong> que servirá de ajudante pessoal, que por mim foi nomeado como: <strong>Grande Sábio</strong>.</p>
 </div>
   
   ---
 
 🧠 Atualmento focado em:
 
-| ☕ **Desenvolvimento em C** | 🧩 **Resolução de Problemas** |
+| ☕ **Desenvolvimento em C/C#** | 🧩 **Projeto: Grande Sábio** |
 | :---: | :---: |
-| 🗄️ **Database** | 📚 **Continuar aprendendo** |
+| 🗄️ **Banco de Dados** | 📚 **Desenvolvimento Front-End** |
 
 ---
 
