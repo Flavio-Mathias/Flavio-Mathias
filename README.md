@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Flávio Mathias</h1>
-  <p>Desenvolvedor Python | APIs REST | Estudante de Engenharia de Software</p>
+  <p>Estudante de Engenharia de Software | Desenvolvedor Back-End & Game Dev | Java, Python, C, GDScript, REST APIs & SQL | Git & GitHub</p>
 </div>
 
 ---
